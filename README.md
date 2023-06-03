@@ -8,6 +8,9 @@ Are you ready to add a dash of excitement to your images? Great! Let's get start
 
 *BipTheGuy* employs SwiftUI to build its user interface and utilizes AVFAudio to integrate sound effects. PhotosUI is used to access the image gallery of the user's device.
 
+<img src="https://github.com/LockedDB/BipTheGuy/assets/56168736/56f94630-684c-40e8-8a0a-6a3b31d9b3b4" width="200">
+<img src="https://github.com/LockedDB/BipTheGuy/assets/56168736/1ebf82be-330c-438e-9623-41fb63cee50d" width="200">
+
 ## Features
 
 1. **'Punch' an Image:** A tap on the image shrinks it to 90% of its size, giving the effect of a 'punch'. A sound accompanies each 'punch' to provide a more engaging experience.
